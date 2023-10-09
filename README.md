@@ -7,6 +7,7 @@
  - найти опытную команду (нет обучения без челленджа)
 
 🥸 Мой стек:
+
   <img align="left" width="30" style="margin-right: 10px;" alt="VS Code" src="./images/vscode.png" >
   <img align="left" width="30" style="margin-right: 10px;" alt="Git" src="./images/git.png" >
   <img align="left" width="30" style="margin-right: 10px;" alt="HTML" src="./images/html.png" >
@@ -18,6 +19,10 @@
   <img align="left" width="30" style="margin-right: 10px;" alt="Webpack" src="./images/webpack.png" >
   <img align="left" width="30" style="margin-right: 10px;" alt="Mongo Db" src="./images/mongodb.png" >
   <img align="left" width="30" style="margin-right: 10px;" alt="Express.js" src="./images/expressjs.png" >
+
+🗿  Моя статистика:
+
+[![Rimriru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rimriru&show=prs_merged_percentage&show_icons=true&theme=transparent)]
   <!-- ![VS Code](vscode.png)
   ![Git](git.png)
   ![HTML](html.png)
