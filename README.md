@@ -20,8 +20,7 @@
   <img align="left" width="30" style="margin-right: 10px;" alt="Mongo Db" src="./images/mongodb.png" >
   <img align="left" width="30" style="margin-right: 10px;" alt="Express.js" src="./images/expressjs.png" >
 
-<p>🗿 Моя статистика:</p>
+<br><br>🗿 Моя статистика:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimriru&layout=compact&theme=transparent)
-
-![Rimriru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rimriru&show=prs_merged_percentage&show_icons=true&theme=transparent&hide_rank=true)
+<img alt="Rimriru's top languages" style="height: 170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimriru&layout=compact&theme=transparent">
+<img alt="Rimriru's stats" src="https://github-readme-stats.vercel.app/api?username=Rimriru&show_icons=true&theme=transparent&rank_icon=percentile&hide=contribs">
