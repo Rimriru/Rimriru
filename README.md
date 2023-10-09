@@ -6,7 +6,7 @@
  - освоить новые для меня технологии (Tailwind, Firebase, Next.js/Vite, Redux, TS, Astro) и укрепить знания в уже приобретенных,
  - найти опытную команду (нет обучения без челленджа)
 
-🥸 Мой стек:
+<p>🥸 Мой стек:</p>
 
   <img align="left" width="30" style="margin-right: 10px;" alt="VS Code" src="./images/vscode.png" >
   <img align="left" width="30" style="margin-right: 10px;" alt="Git" src="./images/git.png" >
@@ -20,17 +20,8 @@
   <img align="left" width="30" style="margin-right: 10px;" alt="Mongo Db" src="./images/mongodb.png" >
   <img align="left" width="30" style="margin-right: 10px;" alt="Express.js" src="./images/expressjs.png" >
 
-🗿  Моя статистика:
+<p>🗿 Моя статистика:</p>
 
-[![Rimriru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rimriru&show=prs_merged_percentage&show_icons=true&theme=transparent)]
-  <!-- ![VS Code](vscode.png)
-  ![Git](git.png)
-  ![HTML](html.png)
-  ![CSS](css.png)
-  ![Sass](sass.png)
-  ![Javascript](javascript.png)
-  ![React](react.png)
-  ![Node.js](nodejs.png)
-  ![Webpack](webpack.png)
-  ![Mongo Db](mongodb.png)
-  ![Express.js](expressjs.png) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimriru&layout=compact&theme=transparent)
+
+![Rimriru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rimriru&show=prs_merged_percentage&show_icons=true&theme=transparent&hide_rank=true)
