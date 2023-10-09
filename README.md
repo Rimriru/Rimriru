@@ -22,5 +22,4 @@
 
 <br><br>🗿 Моя статистика:
 
-<img alt="Rimriru's top languages" style="height: 170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimriru&layout=compact&theme=transparent">
-<img alt="Rimriru's stats" src="https://github-readme-stats.vercel.app/api?username=Rimriru&show_icons=true&theme=transparent&rank_icon=percentile&hide=contribs">
+<img alt="Rimriru's top languages" style="height: 170px; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimriru&layout=compact&theme=transparent"><img alt="Rimriru's stats" src="https://github-readme-stats.vercel.app/api?username=Rimriru&show_icons=true&theme=transparent&rank_icon=percentile&hide=contribs">
