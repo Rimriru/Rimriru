@@ -1,6 +1,7 @@
 **Всем привет! Меня зовут Мария. ✨**
-
-<img align="center" alt="Greeting gif" style="display: block; margin: 20px auto;" src="./images/greeting-gif.gif">
+<p align="center">
+ <img alt="Greeting gif" style="display: block; margin: 20px auto;" src="./images/greeting-gif.gif">
+</p>
 
 И я начинающий фронтенд разработчик. 🤠 Мои цели:
  - создавать удобные и красивые интерфейсы для пользователей, 
