@@ -9,7 +9,7 @@
  - освоить новые для меня технологии (Tailwind, Firebase, Next.js/Vite, Redux, TS, Astro) и укрепить знания уже приобретенных,
  - найти опытную команду (нет обучения без челленджа)
 
-<p>🥸 Мой стек:</p>
+<p>👀 Мой стек:</p>
   <img align="left" width="30" style="margin-right: 10px;" alt="VS Code" src="./images/vscode.png" >
   <img align="left" width="30" style="margin-right: 10px;" alt="Git" src="./images/git.png" >
   <img align="left" width="30" style="margin-right: 10px;" alt="HTML" src="./images/html.png" >
