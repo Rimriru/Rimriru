@@ -1,4 +1,6 @@
-**Всем привет 👋 Меня зовут Мария!**
+**Всем привет! Меня зовут Мария. ✨**
+
+<img alt="Greeting gif" style="display: block; margin: 20px auto;" src="./images/greeting-gif.gif">
 
 И я начинающий фронтенд разработчик. 🤠 Мои цели:
  - создавать удобные и красивые интерфейсы для пользователей, 
@@ -7,7 +9,6 @@
  - найти опытную команду (нет обучения без челленджа)
 
 <p>🥸 Мой стек:</p>
-
   <img align="left" width="30" style="margin-right: 10px;" alt="VS Code" src="./images/vscode.png" >
   <img align="left" width="30" style="margin-right: 10px;" alt="Git" src="./images/git.png" >
   <img align="left" width="30" style="margin-right: 10px;" alt="HTML" src="./images/html.png" >
