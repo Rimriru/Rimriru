@@ -26,9 +26,9 @@
 ## Мои контакты
 <img width="16" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail">      <danilovafrontdev@gmail.com>
 <br>
-<img width="16" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram">      @mariafrontdev
+<img width="16" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram">      [@mariafrontdev](https://t.me/mariafrontdev)
 <br>
-<img width="16" src="https://img.icons8.com/color/48/linkedin.png" alt="Linkedin">       [My LinkedIn Profile](https://www.linkedin.com/in/maria-danilova-995205240/)
+<img width="16" src="https://img.icons8.com/color/48/linkedin.png" alt="Linkedin">       [My LinkedIn Profile](https://www.linkedin.com/in/danilova-maria/)
 
 ## 🗿 Моя статистика:
 
