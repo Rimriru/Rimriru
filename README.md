@@ -10,17 +10,17 @@
  - найти опытную команду (нет обучения без челленджа)
 
 ## 👀 Мой стек:
-  <img align="left" width="30" alt="VS Code" src="./images/vscode.png" >
-  <img align="left" width="30" alt="Git" src="./images/git.png" >
   <img align="left" width="30" alt="HTML" src="./images/html.png" >
   <img align="left" width="30" alt="CSS" src="./images/css.png" >
   <img align="left" width="30" alt="Sass" src="./images/sass.png" >
+  <img align="left" width="30" alt="Tailwind" src="./images/tailwind.svg" >
   <img align="left" width="30" alt="Javascript" src="./images/javascript.png" >
   <img align="left" width="30" alt="React" src="./images/react.png" >
   <img align="left" width="30" alt="Node.js" src="./images/nodejs.png" >
   <img align="left" width="30" alt="Webpack" src="./images/webpack.png" >
   <img align="left" width="30" alt="Mongo Db" src="./images/mongodb.png" >
   <img align="left" width="30" alt="Express.js" src="./images/expressjs.png" >
+  <img align="left" width="30" alt="Git" src="./images/git.png" >
   <br>
 
 ## Мои контакты
