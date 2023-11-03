@@ -6,7 +6,7 @@
 И я начинающий фронтенд разработчик. 🤠 Мои цели:
  - создавать удобные и красивые интерфейсы для пользователей, 
  - научиться улучшать производительность в проектах,
- - освоить новые для меня технологии (Tailwind, Firebase, Next.js/Vite, Redux, TS, Astro) и укрепить знания уже приобретенных,
+ - освоить новые для меня технологии (Vue, Firebase, Next.js/Vite, Redux, TS, Astro) и укрепить знания уже приобретенных,
  - найти опытную команду (нет обучения без челленджа)
 
 ## 👀 Мой стек:
@@ -33,3 +33,4 @@
 ## 🗿 Моя статистика:
 
 <img alt="Rimriru's top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimriru&layout=compact&theme=transparent"><img alt="Rimriru's stats" src="https://github-readme-stats.vercel.app/api?username=Rimriru&show_icons=true&theme=transparent&rank_icon=percentile&hide=contribs">
+<img align="center" alt="Codewars badge" src="https://www.codewars.com/users/Rimriru/badges/large">
