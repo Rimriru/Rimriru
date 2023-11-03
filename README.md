@@ -1,6 +1,6 @@
 ### Всем привет! Меня зовут Мария ✨
 <p align="center">
- <img alt="Greeting gif" style="display: block; margin: 20px auto;" src="./images/greeting-gif.gif">
+ <img alt="Greeting gif" src="./images/greeting-gif.gif">
 </p>
 
 И я начинающий фронтенд разработчик. 🤠 Мои цели:
@@ -32,5 +32,10 @@
 
 ## 🗿 Моя статистика:
 
-<img alt="Rimriru's top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimriru&layout=compact&theme=transparent"><img alt="Rimriru's stats" src="https://github-readme-stats.vercel.app/api?username=Rimriru&show_icons=true&theme=transparent&rank_icon=percentile&hide=contribs">
-<img align="center" alt="Codewars badge" src="https://www.codewars.com/users/Rimriru/badges/large">
+<p align="center">
+ <img alt="Rimriru's top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimriru&layout=compact&theme=transparent">
+ <img alt="Rimriru's stats" src="https://github-readme-stats.vercel.app/api?username=Rimriru&show_icons=true&theme=transparent&rank_icon=percentile&hide=contribs">
+</p>
+<p align="center">
+ <img alt="Codewars badge" src="https://www.codewars.com/users/Rimriru/badges/large">
+</p>
