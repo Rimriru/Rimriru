@@ -15,6 +15,7 @@
   <img align="left" width="30" alt="Sass" src="./images/sass.png" >
   <img align="left" width="30" alt="Tailwind" src="./images/tailwind.svg" >
   <img align="left" width="30" alt="Javascript" src="./images/javascript.png" >
+  <img align="left" width="30" alt="Vue" src="./images/vue.png" >
   <img align="left" width="30" alt="React" src="./images/react.png" >
   <img align="left" width="30" alt="Node.js" src="./images/nodejs.png" >
   <img align="left" width="30" alt="Webpack" src="./images/webpack.png" >
