@@ -1,12 +1,12 @@
 ### Всем привет! Меня зовут Мария ✨
 <p align="center">
- <img alt="Greeting gif" src="./images/greeting-gif.gif">
+ <img alt="Greeting gif" src="./images/greeting-gif-1.gif">
 </p>
 
 И я фронтенд разработчик. 🤠 Мои цели:
  - создавать удобные и красивые интерфейсы для пользователей, 
  - научиться улучшать производительность в проектах,
- - освоить новые для меня технологии (Vue, Firebase, Next.js/Vite, Redux) и укрепить знания уже приобретенных,
+ - освоить новые для меня технологии и укрепить знания уже приобретенных,
  - найти опытную команду (нет обучения без челленджа)
 
 ## 👀 Мой стек:
@@ -16,6 +16,7 @@
   <img align="left" width="30" alt="Tailwind" src="./images/tailwind.svg" >
   <img align="left" width="30" alt="Javascript" src="./images/javascript.png" >
   <img align="left" width="30" alt="Vue" src="./images/vue.png" >
+  <img align="left" width="30" alt="Nuxt" src="./images/nuxt.png" >
   <img align="left" width="30" alt="React" src="./images/react.png" >
   <img align="left" width="30" alt="Node.js" src="./images/nodejs.png" >
   <img align="left" width="30" alt="Webpack" src="./images/webpack.png" >
