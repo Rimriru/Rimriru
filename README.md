@@ -1,6 +1,6 @@
 ### Всем привет! Меня зовут Мария ✨
 <p align="center">
- <img alt="Greeting gif" src="./images/greeting-gif-1.gif">
+ <img alt="Greeting gif" width="600" src="./images/greeting-gif-1.gif">
 </p>
 
 И я фронтенд разработчик. 🤠 Мои цели:
