@@ -10,20 +10,20 @@
  - найти опытную команду (нет обучения без челленджа)
 
 ## 👀 Мой стек:
-  <img align="left" width="30" alt="HTML" src="./images/html.png" >
-  <img align="left" width="30" alt="CSS" src="./images/css.png" >
-  <img align="left" width="30" alt="Sass" src="./images/sass.png" >
-  <img align="left" width="30" alt="Tailwind" src="./images/tailwind.svg" >
-  <img align="left" width="30" alt="Javascript" src="./images/javascript.png" >
-  <img align="left" width="30" alt="Vue" src="./images/vue.png" >
-  <img align="left" width="30" alt="Nuxt" src="./images/nuxt.png" >
-  <img align="left" width="30" alt="React" src="./images/react.png" >
-  <img align="left" width="30" alt="Node.js" src="./images/nodejs.png" >
-  <img align="left" width="30" alt="Webpack" src="./images/webpack.png" >
-  <img align="left" width="30" alt="Mongo Db" src="./images/mongodb.png" >
-  <img align="left" width="30" alt="Express.js" src="./images/expressjs.png" >
-  <img align="left" width="30" alt="Git" src="./images/git.png" >
-  <br>
+<p>
+  <img title="HTML" align="left" width="30" alt="HTML" src="./images/html.png" >
+  <img title="CSS" align="left" width="30" alt="CSS" src="./images/css.png" >
+  <img title="Sass" align="left" width="30" alt="Sass" src="./images/sass.png" >
+  <img title="Tailwind" align="left" width="30" alt="Tailwind" src="./images/tailwind.svg" >
+  <img title="Javascript" align="left" width="30" alt="Javascript" src="./images/javascript.png" >
+  <img title="Vue" align="left" width="30" alt="Vue" src="./images/vue.png" >
+  <img title="Nuxt" align="left" width="30" alt="Nuxt" src="./images/nuxt.png" >
+  <img title="Node.js" align="left" width="30" alt="Node.js" src="./images/nodejs.png" >
+  <img title="Webpack" align="left" width="30" alt="Webpack" src="./images/webpack.png" >
+  <img title="MongoDB" align="left" width="30" alt="MongoDB" src="./images/mongodb.png" >
+  <img title="Express.js" align="left" width="30" alt="Express.js" src="./images/expressjs.png" >
+  <img title="Git" align="left" width="30" alt="Git" src="./images/git.png" >
+</p>
 
 ## Мои контакты
 <img width="16" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail">      <danilovafrontdev@gmail.com>
