@@ -24,6 +24,7 @@
   <img title="Express.js" align="left" width="30" alt="Express.js" src="./images/expressjs.png" >
   <img title="Git" align="left" width="30" alt="Git" src="./images/git.png" >
 </p>
+<br>
 
 ## Мои контакты
 <img width="16" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail">      <danilovafrontdev@gmail.com>
