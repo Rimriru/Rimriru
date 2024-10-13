@@ -27,6 +27,8 @@
 <br>
 
 ## Мои контакты
+<img width="16" src="https://cdn.iconscout.com/icon/free/png-512/free-gitlab-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-4-pack-icons-282507.png?f=webp&w=256" alt="GitLab"> [GitLab account](https://gitlab.com/Rimriru)
+<br>
 <img width="16" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail">      <danilovafrontdev@gmail.com>
 <br>
 <img width="16" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram">      [@mariafrontdev](https://t.me/mariafrontdev)
